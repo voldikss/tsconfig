@@ -1,0 +1,16 @@
+{
+  "name": "@voldikss/tsconfig",
+  "version": "1.0.0",
+  "description": "voldikss's tsconfig",
+  "main": "tsconfig.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voldikss/tsconfig.git"
+  },
+  "keywords": [
+    "tsconfig"
+  ],
+  "author": "voldikss <dyzplus@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/voldikss/tsconfig#readme"
+}
